@@ -1,5 +1,13 @@
 # Simple Calculator
+![Language](https://img.shields.io/badge/language-Java-blue.svg)
+![Status](https://img.shields.io/badge/status-Project-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
+
 This is a simple calculator app made using Java with OOP that can do basic arithmetic operations.
+
+
+
 
 ## Features
 -It takes input and offers choice to perform which calculation
@@ -18,7 +26,7 @@ Either:
 - Use [Java Online Compiler](https://www.programiz.com/java-programming/online-compiler/) to run.
 - [Git](https://git-scm.com/downloads)
 
-## 🚀 Running the App
+## Running the App
 ### Method#1
 1. Go to Java Online Compiler.
 2. Paste the `Calculator.java` code in there.
@@ -33,7 +41,7 @@ Now in Git bash, use the following command,\
 `java Calculator`
 
 
-## 📚 Documentation 
+## Documentation 
 ### Structure
 The main class is `Calculator`
 - There are 3 types of main methods:
